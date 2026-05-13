@@ -2,7 +2,7 @@
 
 This is how I've been building new things with LLMs. I start with this structure here. I fill in my [idea](shaping/idea.md), and then I start figuring it out. **I call this process _shaping_** — an idea I learned from [Ryan Singer](https://www.ryansinger.co/). Ryan's process is extremely rigorous and specific — mine is extremely lightweight and fungible.
 
-I ask the LLMs: what do you think of my idea? I have a discussion and try to flesh out the unknowns. What's possible? What have I missed? Does this make sense?
+I ask the LLMs: what do you think of my idea? I have a discussion and try to flesh out the unknowns. What's possible? What have I missed? Does this make sense? If I want to take a deep dive into a question (e.g. what APIs exist for this data type?), I ask the agent to create a [report](reports/README.md).
 
 Then I come up with some [Design Priorities](shaping/design-priorities.md). What are the guiding priciples of this product? Does it need to be fast and optimized for slow internet connections? Built for an expert audience? Always have a light/dark mode? Designed to scale to hundreds of millions of users?
 
