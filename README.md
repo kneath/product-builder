@@ -22,4 +22,4 @@ Finally: [The Plan](shaping/the-plan.md). With an idea, design priorities, and s
 
 ## Build It
 
-I like to start with a few prototypes, they help shape the plan in a more useful direction. ***LLMs are little context goblins.** This document structure and the prototypes — they serve as context fuel for it to build the real thing.
+I like to start with a few prototypes, they help shape the plan in a more useful direction. **LLMs are little context goblins.** This document structure and the prototypes — they serve as context fuel for it to build the real thing.
