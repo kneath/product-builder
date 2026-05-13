@@ -1,6 +1,6 @@
 # Product Builder
 
-This is how I've been building new things with LLMs. I start with this structure here. I fill in my [idea](shaping/idea.md), and then I start figuring it out. **I call this process _shaping_** — an idea I learned from [Ryan Singer](https://www.ryansinger.co/).
+This is how I've been building new things with LLMs. I start with this structure here. I fill in my [idea](shaping/idea.md), and then I start figuring it out. **I call this process _shaping_** — an idea I learned from [Ryan Singer](https://www.ryansinger.co/). Ryan's process is extremely rigorous and specific — mine is extremely lightweight and fungible.
 
 I ask the LLMs: what do you think of my idea? I have a discussion and try to flesh out the unknowns. What's possible? What have I missed? Does this make sense?
 
