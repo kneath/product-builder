@@ -10,4 +10,6 @@ Then I come up with some [Design Priorities](shaping/design-priorities.md). What
 
 Then I ask the LLMs to guide me on a [Stack](shaping/stack.md) for the product. You can tell it what your [technical preferences](https://github.com/kneath/knyle-share/blob/main/TECHNICAL_PREFERENCES.md) are, and with the context of the idea and the design priorities, it can suggest a good stack.
 
-Finally: [The Plan](shaping/the-plan.md). With an idea, design priorities, and stack, the LLM can now make a plan to build the product. I like to start with a few prototypes, those tend to help shape the plan in a better direction.
+Finally: [The Plan](shaping/the-plan.md). With an idea, design priorities, and stack, the LLM can now make a plan to build the product. 
+
+I like to start with a few prototypes, they help shape the plan in a more useful direction. ***LLMs are little context goblins.** This document structure and the prototypes — they serve as context fuel for it to build the real thing.
